@@ -47,7 +47,7 @@ Each model was trained and evaluated using metrics such as **R² score** and **R
 
 ## 📁 Files
 
-- `train_model.py` – Trains and evaluates the models  
+- `sdoh_model.ipynb` – Trains and evaluates the models  
 - `sdoh_data.csv` – Cleaned dataset of SDoH features and target variable  
 - `README.md` – Project overview
 
